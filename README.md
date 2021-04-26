@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ankiii07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data science , Machine Learning deep learming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently working on Machine Learning with Web Development.
+- 🌱 I’m currently learning java with data structure & algorithms and also deep learning.
+- 💞️ I’m looking to collaborate on Data Visualisation and ML + webD. projects.
+- 📫 How to reach me ankiii0071@gmail.com
+- 💥 java + python 
 
-<!---
-ankiii07/ankiii07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
