@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Data Visualisation and ML + webD. projects.
 - 📫 How to reach me ankiii0071@gmail.com
 - 💥 java + python 
-  🎶 I Spend almost 4 hours listening songs everyday..
-
+- 🎶 I Spend almost 4 hours listening songs everyday..
+- <img src="https://github-readme-stats.vercel.app/api?username=ankiii07&&show_icons=true&title_color=FF0000&icon_color=FF00FF&text_color=800000&bg_color=FFFFFF">
