@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
+- <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 - 👀 I’m currently working on Machine Learning with Web Development.
 - 🌱 I’m currently learning java with data structure & algorithms and also deep learning.
 - 💞️ I’m looking to collaborate on Data Visualisation and ML + webD. projects.
