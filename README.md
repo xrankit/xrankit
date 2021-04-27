@@ -5,16 +5,18 @@
 - 📫 How to reach me ankiii0071@gmail.com
 - 💥 java + python 
 - 🎶 I Spend almost 4 hours listening songs everyday..
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="ankiii07" /> </p>
+<h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="ankiii07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankiii07" alt="ankiii07" /></a> </p>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankit-yadav-892a061ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-yadav-892a061ab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-yadav-892a061ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ankit-yadav-892a061ab" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankiii07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="ankiii07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ankit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ankit yadav" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankiii0071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="ankiii0071" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ankiii0071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@ankiii0071" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ankiii0071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="ankiii0071" height="30" width="40" /></a>
+<a href="https://discord.gg/ankit#6309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="ankit#6309" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankiii07&show_icons=true&locale=en" alt="ankiii07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&" alt="ankiii07" /></p>
+
