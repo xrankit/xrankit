@@ -5,7 +5,7 @@
 - 📫 How to reach me ankiii0071@gmail.com
 - 💥 java + python 
 - 🎶 I Spend almost 4 hours listening songs everyday..
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="ankiii07" /> </p>
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="ankiii07" /> </p></center>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
