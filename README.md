@@ -23,7 +23,7 @@
  <h1 align="center">Trophies</h1>
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankiii07)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankiii07&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <div align="center">
     
