@@ -31,4 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&theme=dark&show_icons=true&" alt="ankiii07" /></p>
 <div>
+ <div align="center">   
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=ankiii07&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
 
