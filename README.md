@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 - 👀 I’m currently working on Data Science with Augmented Reality.
-- 🌱 I’m currently learning java with data structure & algorithms and also deep learning.
-- 💞️ I’m looking to collaborate on Data Visualisation and ML + webD. projects.
+- 🌱 I’m currently learning java with data structure & algorithms.
+- 💞️ I’m looking to collaborate Machine Learning & Augmented Reality projects.
 - 📫 How to reach me ankiii0071@gmail.com
 - 💥 java + python 
 - 🎶 I Spend almost 7-8 hours listening songs everyday..
