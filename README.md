@@ -31,5 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&theme=dark&show_icons=true&" alt="ankiii07" /></p>
 <div>
-<img align="center" src="https://github.com/ankiii07/ankiii07/blob/output/github-contribution-grid-snake.gif">
+
 
