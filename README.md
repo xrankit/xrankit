@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate Machine Learning & Augmented Reality projects.
 - 📫 How to reach me ankiii0071@gmail.com
 - 💥 java + python 
-- 🎶 I Spend almost 7-8 hours listening songs everyday..
+- 🎶 I Spend almost 6-7 hours listening songs everyday..
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="ankiii07" /> </p>
 <div>
