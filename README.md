@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/15778184/ankit-yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ankit-yadav" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankiii07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ankit-yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/_ankiii_07_?igshid=1rckp2cuujy8t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ankit-yadav" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ankiii0071" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankiii0071" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ankiii0071" target="blanK"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankiii0071" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankiii0071" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankiii0071" height="30" width="40" /></a>
 </p>
 <h2 align="center">Languages and Tools:</h2>
