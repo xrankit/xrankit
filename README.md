@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-- 👀 I’m currently working on Data Science with Augmented Reality.
+- 👀 I’m currently working on Data Analysis with Augmented Reality.
 - 🌱 I’m currently learning java with data structure & algorithms.
 - 💞️ I’m looking to collaborate Machine Learning & Augmented Reality projects.
 - 📫 How to reach me ankiii0071@gmail.com
