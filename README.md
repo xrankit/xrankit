@@ -1,4 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
+- <img align="right" alt="Coding" width="400" src="https://github.com/ankiii07/ankiii07/blob/main/Untitled%20design.png">
 - 👀 I’m currently working on Data Analysis with Augmented Reality.
 - 🌱 I’m currently learning java with data structure & algorithms.
 - 💞️ I’m looking to collaborate Machine Learning & Augmented Reality projects.
