@@ -46,7 +46,7 @@
 <div align="center">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ankiii07&theme=dark&show_icons=true&locale=en&layout=compact)  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&theme=dark&show_icons=true&" alt="ankiii07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&theme=dark&show_icons=true&" alt="ankiii07" /></p>
 <div>
 
 
