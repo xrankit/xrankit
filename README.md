@@ -43,9 +43,7 @@
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankiii07&theme=monokai&column=4&margin-w=15&margin-h=15)]
 </div>
-<div align="center">
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ankiii07&theme=dark&show_icons=true&locale=en&layout=compact)  
+<div align="center">  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankiii07&theme=dark&show_icons=true&" alt="ankiii07" /></p>
 <div>
 
