@@ -42,17 +42,17 @@
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbtions) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xrankit/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mbtions) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/meenakshixd) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@minax) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-1f1f1f?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/meenakshibharadwaj/) 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/meenakshibharad1)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/yourchannel)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/yourusername)
-[![CodeStudio](https://img.shields.io/badge/CodeStudio-%230075A8.svg?logo=CodeStudio&logoColor=white)](https://codestudio.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_ankiii_07_) 
+[![Topmate](https://img.shields.io/badge/Topmate-2962FF?style=flat&logo=topmate&logoColor=white)](https://topmate.io/xrankit)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-1f1f1f?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/ankiii0071/) 
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ankiii0071)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white)](https://github.com/xrankit)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@VirtualAceX)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xrankit.in/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/ankiii07)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-%230075A8.svg?logo=CodeStudio&logoColor=white)](https://codestudio.com/ankiii07)
 
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbtions&theme=highcontrast&hide_border=false" height=150px>
