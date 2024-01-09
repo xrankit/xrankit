@@ -52,7 +52,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@VirtualAceX)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/xrankit.in/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/ankiii07)
-[![CodeStudio](https://img.shields.io/badge/CodeStudio-%230075A8.svg?logo=CodeStudio&logoColor=white)](https://codestudio.com/ankiii07)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-%230075A8.svg?logo=CodeStudio&logoColor=white)](https://www.codingninjas.com/studio/profile/ankiii07)
 
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbtions&theme=highcontrast&hide_border=false" height=150px>
