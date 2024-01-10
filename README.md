@@ -59,7 +59,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=blue-green)
   
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xrankit&theme=radical&no-frame=true&no-bg=false&margin-w=5&column=4&rank=SECRET,STARS,COMMIT,REPO,LANGUAGE)
+![](https://github-profile-trophy.vercel.app/?username=xrankit&theme=onedark&no-frame=true&no-bg=false&margin-w=5&no-pr=true&no-issues=true&no-reviews=true)
 
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
