@@ -56,7 +56,7 @@
 
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrankit&theme=highcontrast&hide_border=false" height=150px>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=blue-red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=blue-green)
   
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xrankit&theme=onedark&no-frame=true&no-bg=false&margin-w=5&no-pr=true&no-issues=true&no-reviews=true)
