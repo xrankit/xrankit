@@ -64,12 +64,15 @@
 <p>
 <div width="100%" align="center">
  <a href="https://github.com/xrankit/NavigAR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=NavigAR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/xrankit/Rakshak" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=Rakshak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
- <br><br></p>
+<a href="https://github.com/xrankit/Rakshak" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=Rakshak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+ <br /><br /><br /><br /><br /><br />
+ <p>
+ <div width="100%" align="center">
  <a href="https://github.com/xrankit/AR_Student_Card" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_Student_Card&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/xrankit/AR_FootBall_Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_FootBall_Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 </p>
+<br /><br /><br /><br /><br /><br /><br />
 
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
