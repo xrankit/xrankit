@@ -8,7 +8,8 @@
 - 🎶 I Spend almost 2-3 hours listening songs everyday
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="xrankit" /> </p>
-<img src="https://profile-counter.glitch.me/ankiii07/count.svg" /></p>
+<img src="https://profile-counter.glitch.me/ankiii07/count.svg" />
+ <a href="https://github.com/xrankit" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/xrankit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <h3 align="center">🚀 Languages and Tools:</h3>
  <p align="center">  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -60,6 +61,15 @@
   
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xrankit&theme=onedark&no-frame=true&no-bg=false&margin-w=5&no-pr=true&no-issues=true&no-reviews=true)
+<p>
+<div width="100%" align="center">
+ <a href="https://github.com/xrankit/NavigAR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=NavigAR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/xrankit/Rakshak" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=Rakshak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+ <br><br></p>
+ <a href="https://github.com/xrankit/AR_Student_Card" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_Student_Card&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/xrankit/AR_FootBall_Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_FootBall_Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+</p>
 
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
