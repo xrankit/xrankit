@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate Augmented Reality project.
 - 📫 How to reach me tech.ankit.xr@gmail.com
 - 💥 Augmented Reality, C#, Java and Spring
-- 🎶 I Spend almost 2-3 hours listening songs everyday.
+- 🎶 I Spend almost 2-3 hours listening songs everyday
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ankiii07&label=Profile%20views&color=0e75b6&style=flat" alt="xrankit" /> </p>
 <img src="https://profile-counter.glitch.me/ankiii07/count.svg" />
