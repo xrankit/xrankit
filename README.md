@@ -55,12 +55,34 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/ankiii07)
 [![CodeStudio](https://img.shields.io/badge/CodeStudio-%230075A8.svg?logo=CodeStudio&logoColor=white)](https://www.codingninjas.com/studio/profile/ankiii07)
 
+## 📝 Editors/IDEs Used:
+
+  <div align="center">
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="icon"  />
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="icon"  />
+   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="icon"  /><br>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/S.T.E-SubLime%20Text%20Editor-yellowgreen">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PY-PyCharm-orange">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ecl.-Eclipse-pink">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GC-GoogleCollab-blue">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/A-Atom-yellowgreen">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/S-Spyder-orange">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/N-Notion-green">&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AStu.-Android%20Studio-blue"><br><br>
+</div>
+</div>
+
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrankit&theme=highcontrast&hide_border=false" height=150px>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=blue-green)
+
+## 🏆GitHub Trophies:
+  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xrankit&row=1&column=-1&theme=algolia" /></a> </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xrankit&theme=onedark&no-frame=true&no-bg=false&margin-w=5&no-pr=true&no-issues=true&no-reviews=true)
 <p>
 <div width="100%" align="center">
  <a href="https://github.com/xrankit/NavigAR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=NavigAR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
@@ -74,3 +96,18 @@
 
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
+
+## 💹 Contribution Graph:
+
+<div align="center">
+<!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xrankit&theme=2077" width="850px" /> -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrankit&theme=react-dark&hide_border=false&area=true" width="850px" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+  <div align="center">
+<div style="display: flex; align-items: flex-start;">
+<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Thanks! For Visiting <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"></h1>
+</div> </div>
+
+
