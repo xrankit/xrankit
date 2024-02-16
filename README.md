@@ -1,8 +1,8 @@
 - <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 - <img align="right" alt="Coding" width="400" src="https://github.com/xrankit/xrankit/blob/main/_ankzzz_07_.png">
-- 👀 I’m currently working on Virtual Tryon with Augmented Reality.
-- 🌱 I’m currently learning java with data structure & algorithms.
-- 💞️ I’m looking to collaborate Augmented Reality project.
+- 👀 I’m currently working on Virtual Tryon with Augmented Reality
+- 🌱 I’m currently learning java with data structure & algorithms
+- 💞️ I’m looking to collaborate Augmented Reality project
 - 📫 How to reach me tech.ankit.xr@gmail.com.
 - 💥 Augmented Reality, C#, Java and Spring.
 - 🎶 I Spend almost 2-3 hours listening songs everyday
