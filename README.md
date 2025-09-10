@@ -78,15 +78,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <p>
-<div width="100%" align="center">
- <a href="https://github.com/xrankit/NavigAR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=NavigAR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/xrankit/Rakshak" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=Rakshak&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
- <br /><br /><br /><br /><br /><br />
- <div width="100%" align="left">
- <a href="https://github.com/xrankit/AR_Student_Card" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_Student_Card&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/xrankit/AR_FootBall_Game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xrankit&repo=AR_FootBall_Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br />
 
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
@@ -96,12 +87,12 @@
 <div align="center">
 <!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xrankit&theme=2077" width="850px" /> -->
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xrankit&theme=react-dark&hide_border=false&area=true" width="850px" />
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
   <div align="center">
 <div style="display: flex; align-items: flex-start;">
-<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Thanks! For Visiting <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"></h1>
+<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"/> Thanks! For Visiting <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"/></h1>
 </div> </div>
 
 
