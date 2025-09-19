@@ -83,11 +83,8 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<p>
 
-### 💰 Want to Help?
-[![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/xrankit) 
+<p>
 
 ## 💹 Contribution Graph:
 
