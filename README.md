@@ -70,12 +70,19 @@
 </div>
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrankit&theme=highcontrast&hide_border=false" height=150px>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=blue-green)
+<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=xrankit&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=xrankit&theme=highcontrast&hide_border=false" height="150px"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrankit&theme=highcontrast&hide_border=false)
+
 
 ## 🏆GitHub Trophies:
-  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xrankit&row=1&column=-1&theme=algolia" /></a> </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xrankit&theme=monokai&column=-1&title=-Issues,-Reviews" />
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <p>
 
